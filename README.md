@@ -1,104 +1,332 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:4B102A,100:9D174D&height=200&section=header&text=Satyam%20Vishwakarma&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:09090B,35:301126,70:721C4A,100:C04478&text=SATYAM%20VISHWAKARMA&fontSize=42&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&stroke=C04478&strokeWidth=1"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E879A9&center=true&vCenter=true&width=600&lines=Frontend+%26+Backend+Developer;Python+%7C+React+Developer;Building+Ideas+Into+Projects;Always+Learning+Something+New" />
+### `AI / SOFTWARE DEVELOPER` · `FULL STACK ENTHUSIAST`
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=21&duration=2800&pause=900&color=E9A0C0&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+applications.;Building+with+React+%26+Python.;Exploring+AI%2C+APIs+%26+Backend+Systems.;Learning.+Building.+Growing." />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=satyamvishwa2006-coder&label=PROFILE+VIEWS&color=9D174D&style=for-the-badge" />
-
-</div>
-
----
-
-## About Me
-
-Hello! I'm **Satyam Vishwakarma**, a Computer Science Engineering student and aspiring Full Stack Developer from Lucknow, India.
-
-- Currently pursuing B.Tech in Computer Science Engineering.
-- Interested in Frontend and Backend Development.
-- Building applications using React and Python.
-- Exploring Artificial Intelligence and APIs.
-- Looking for internship and developer opportunities.
-- Always learning, building and improving.
-
----
-
-## Tech Stack
-
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### Backend & Database
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres" />
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## Featured Projects
-
-| Project | Description |
-|---|---|
-| [AI Chatbot](https://github.com/satyamvishwa2006-coder/Ai-Chatbot) | AI-powered chatbot using Hugging Face API |
-| [Multimodal AI Chatbot](https://github.com/satyamvishwa2006-coder/Multimodel-AI-Chatbot) | Multimodal AI chatbot project |
-| [Attendance Management System](https://github.com/satyamvishwa2006-coder/Attendance-management-System) | Student attendance management |
-| [Flashcard Generator](https://github.com/satyamvishwa2006-coder/Flashcard-Generator) | Flashcard generation project |
-| [E-Commerce Website](https://github.com/satyamvishwa2006-coder/E-Com-Shoping-web-Clone-) | E-commerce frontend project |
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=satyamvishwa2006-coder&show_icons=true&theme=radical&hide_border=true&bg_color=090909&title_color=E879A9&icon_color=E879A9&text_color=ffffff" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamvishwa2006-coder&layout=compact&theme=radical&hide_border=true&bg_color=090909&title_color=E879A9&text_color=ffffff" />
-
-<img width="90%" src="https://streak-stats.demolab.com?user=satyamvishwa2006-coder&theme=radical&hide_border=true&background=090909&ring=E879A9&fire=E879A9&currStreakLabel=E879A9" />
-
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/satyam-vishwakarma-331ba226a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/satyamvishwa2006-coder">
+<img src="https://img.shields.io/badge/GitHub-Profile-9D174D?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="mailto:satyamvishwa2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-BB477D?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/satyam-vishwakarma-331ba226a/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-8B315F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=satyamvishwa2006-coder&style=flat-square&color=9D174D&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 01 — THE INTRODUCTION
+### A little about me.
+
+</div>
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### Hey, I'm Satyam.
+
+I'm a Computer Science Engineering student, aspiring developer and technology enthusiast based in **Lucknow, India**.
+
+I enjoy creating applications, experimenting with new technologies and turning ideas into practical digital experiences.
+
+My interests include frontend development, backend engineering, databases and Artificial Intelligence.
+
+**Currently focused on:**
+- Developing full-stack applications.
+- Building AI-powered projects.
+- Improving problem-solving and development skills.
+- Exploring internship opportunities.
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://skillicons.dev/icons?i=react,python,fastapi,postgres&perline=2" width="150"/>
+
+**BUILDING THE FUTURE**
+
+`B.Tech · CSE`
+
+`2nd Year`
+
+`Lucknow, India`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 02 — MY TECHNOLOGY UNIVERSE
+### The tools I reach for.
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01. Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"/>
+
+Building responsive interfaces and interactive web experiences.
+
+</td>
+<td width="50%" valign="top">
+
+### 02. Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark"/>
+
+Developing backend applications and API-driven systems.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03. Database
+
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark"/>
+
+Working with relational databases and data management.
+
+</td>
+<td width="50%" valign="top">
+
+### 04. Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+
+Version control, collaboration and development workflows.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 03 — SELECTED WORKS
+### Things I've built and explored.
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AI Chatbot
+
+<img src="https://img.shields.io/badge/AI-Project-9D174D?style=flat-square"/>
+
+An AI chatbot project integrating the Hugging Face API.
+
+**Tech:** Python · React · FastAPI
+
+[View Repository →](https://github.com/satyamvishwa2006-coder/Ai-Chatbot)
+
+</td>
+<td width="50%" valign="top">
+
+### Multimodal AI Chatbot
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-BB477D?style=flat-square"/>
+
+Exploring multimodal AI interactions and intelligent applications.
+
+**Tech:** Python · AI APIs
+
+[View Repository →](https://github.com/satyamvishwa2006-coder/Multimodel-AI-Chatbot)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Attendance Management System
+
+<img src="https://img.shields.io/badge/Management_System-9D174D?style=flat-square"/>
+
+A project focused on managing student attendance records.
+
+[View Repository →](https://github.com/satyamvishwa2006-coder/Attendance-management-System)
+
+</td>
+<td width="50%" valign="top">
+
+### Flashcard Generator
+
+<img src="https://img.shields.io/badge/Productivity-BB477D?style=flat-square"/>
+
+A project focused on generating flashcards for learning.
+
+[View Repository →](https://github.com/satyamvishwa2006-coder/Flashcard-Generator)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### E-Commerce Website
+
+<img src="https://img.shields.io/badge/Web_Development-9D174D?style=flat-square"/>
+
+An e-commerce website clone exploring frontend development.
+
+[View Repository →](https://github.com/satyamvishwa2006-coder/E-Com-Shoping-web-Clone-)
+
+</td>
+<td width="50%" valign="top">
+
+### Portfolio Projects
+
+<img src="https://img.shields.io/badge/Creative_Development-BB477D?style=flat-square"/>
+
+Explore my other experiments, web projects and coding work.
+
+[Explore All Repositories →](https://github.com/satyamvishwa2006-coder?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 04 — CERTIFICATIONS & LEARNING
+### Every skill starts with curiosity.
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### HP Certifications
+
+<img src="https://img.shields.io/badge/HP-Certified_Training-8B315F?style=for-the-badge&logo=hp&logoColor=white"/>
+
+**3 HP certificates**
+
+</td>
+<td align="center" width="50%">
+
+### Other Certifications
+
+<img src="https://img.shields.io/badge/Additional-Learning-9D174D?style=for-the-badge"/>
+
+eIIT Delhi · WhiteHat Junior
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 05 — MY GITHUB ACTIVITY
+### A year of building, one contribution at a time.
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=satyamvishwa2006-coder&bg_color=09090B&color=E9A0C0&line=C04478&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=satyamvishwa2006-coder&show_icons=true&hide_border=true&bg_color=09090B&title_color=E9A0C0&icon_color=C04478&text_color=FFFFFF&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamvishwa2006-coder&layout=compact&hide_border=true&bg_color=09090B&title_color=E9A0C0&text_color=FFFFFF"/>
+
+<br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=satyamvishwa2006-coder&theme=transparent&hide_border=true&background=09090B&ring=C04478&fire=E9A0C0&currStreakLabel=E9A0C0&sideLabels=FFFFFF&dates=AAAAAA"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 06 — BEYOND THE CODE
+### What drives me.
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**01**
+
+Learning
+
+<sub>Constantly exploring new technologies.</sub>
+
+</td>
+<td align="center" width="33%">
+
+**02**
+
+Creating
+
+<sub>Turning ideas into real projects.</sub>
+
+</td>
+<td align="center" width="33%">
+
+**03**
+
+Growing
+
+<sub>Improving through every challenge.</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 07 — LET'S CONNECT
+### Have an idea? Let's build something.
 
 <a href="https://github.com/satyamvishwa2006-coder">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-09090B?style=for-the-badge&logo=github&logoColor=E9A0C0"/>
 </a>
-
+<a href="https://www.linkedin.com/in/satyam-vishwakarma-331ba226a/">
+<img src="https://img.shields.io/badge/LinkedIn-09090B?style=for-the-badge&logo=linkedin&logoColor=E9A0C0"/>
+</a>
 <a href="mailto:satyamvishwa2006@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-09090B?style=for-the-badge&logo=gmail&logoColor=E9A0C0"/>
 </a>
-
 <a href="https://www.instagram.com/simply_.satyam/">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-09090B?style=for-the-badge&logo=instagram&logoColor=E9A0C0"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+### "Great things are built one line of code at a time."
 
-<div align="center">
+**Thanks for visiting my profile!**
 
-### "Code. Learn. Build. Repeat."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D174D,50:4B102A,100:090909&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9D174D,50:301126,100:09090B&height=130&section=footer"/>
 
 </div>
