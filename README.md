@@ -24,7 +24,7 @@ A little about me.
 <tr>
 <td width="65%" valign="top">Hey, I'm Satyam.
 
-I'm a Computer Science Engineering student, aspiring developer and technology enthusiast based in Lucknow, India.
+I'm a Computer Science Engineering in ARTIFICIAL INTELLIGANCE AND MACHINE LEARNING student, aspiring developer and technology enthusiast based in Lucknow, India. Currently i am learning new things it makes me curious.
 
 I enjoy creating applications, experimenting with new technologies and turning ideas into practical digital experiences.
 
@@ -32,6 +32,7 @@ My interests include frontend development, backend engineering, databases and Ar
 
 Currently focused on:
 
+- Building Skills Learning New things.
 - Developing full-stack applications.
 - Building AI-powered projects.
 - Improving problem-solving and development skills.
@@ -40,7 +41,7 @@ Currently focused on:
 </td>
 <td width="35%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=react,python,fastapi,postgres&perline=2" width="150"/>BUILDING THE FUTURE
 
-"B.Tech · CSE"
+"B.Tech · CSE AI & ML "
 
 "2nd Year"
 
@@ -221,5 +222,6 @@ Have an idea? Let's build something.
 "Great things are built one line of code at a time."
 
 Thanks for visiting my profile!
+- SATYAM VISHWAKARMA
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9D174D,50:301126,100:09090B&height=130&section=footer"/></div>
