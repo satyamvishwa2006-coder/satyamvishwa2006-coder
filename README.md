@@ -1,4 +1,4 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:09090B,35:301126,70:721C4A,100:C04478&text=SATYAM%20VISHWAKARMA&fontSize=42&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&stroke=C04478&strokeWidth=1"/>"AI / SOFTWARE DEVELOPER" · "FULL STACK ENTHUSIAST"
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:09090B,35:301126,70:721C4A,100:C04478&text=SATYAM%20VISHWAKARMA&fontSize=42&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&stroke=C04478&strokeWidth=1"/>"ARTIFICIAL INTELLIGENCEAND MACHINE LEARNING / SOFTWARE DEVELOPER" · "FULL STACK ENTHUSIAST"
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=21&duration=2800&pause=900&color=E9A0C0&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+applications.;Building+with+React+%26+Python.;Exploring+AI%2C+APIs+%26+Backend+Systems.;Learning.+Building.+Growing." /><br/><a href="https://github.com/satyamvishwa2006-coder">
 <img src="https://img.shields.io/badge/GitHub-Profile-9D174D?style=for-the-badge&logo=github&logoColor=white"/>
@@ -8,10 +8,13 @@
 </a>
 <a href="https://www.linkedin.com/in/satyam-vishwakarma-331ba226a/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-8B315F?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><img src="https://komarev.com/ghpvc/?username=satyamvishwa2006-coder&style=flat-square&color=9D174D&label=PROFILE+VIEWS"/></div>
-
+</a>
 <a href="https://satyam-portfolio-er.vercel.app/">
  <img src="https://img.shields.io/badge/Portfolio-Connect-8B315F?style=for-the-badge&logo=Portfolio&logoColor=white"/>
+ </a>
+<img src="https://komarev.com/ghpvc/?username=satyamvishwa2006-coder&style=flat-square&color=9D174D&label=PROFILE+VIEWS"/></div>
+
+
    
 <div align="center">01 — THE INTRODUCTION
 
