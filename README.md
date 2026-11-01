@@ -141,24 +141,80 @@ Tech: Python · AI APIs
 </tr>
 </table>---
 
-<div align="center">04 — CERTIFICATIONS & LEARNING
 
-Every skill starts with curiosity.
+<div align="center">
 
-</div><table>
+## 04 — CERTIFICATIONS & ACHIEVEMENTS
+### Learning today. Building tomorrow.
+
+<img src="https://img.shields.io/badge/VERIFIED_LEARNING-9D174D?style=for-the-badge"/>
+
+</div>
+
+### HP Certifications
+
+<table>
 <tr>
-<td align="center" width="50%">HP Certifications
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/HP-Certified_Training-8B315F?style=for-the-badge&logo=hp&logoColor=white"/>3 HP certificates
+**HP Certificate 01**
+
+<a href="certificates/hp-certificate-1.pdf">
+<img src="https://img.shields.io/badge/VIEW_CERTIFICATE-9D174D?style=for-the-badge&logo=hp&logoColor=white"/>
+</a>
 
 </td>
-<td align="center" width="50%">Other Certifications
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/Additional-Learning-9D174D?style=for-the-badge"/>eIIT Delhi · WhiteHat Junior
+**HP Certificate 02**
+
+<a href="certificates/hp-certificate-2.pdf">
+<img src="https://img.shields.io/badge/VIEW_CERTIFICATE-9D174D?style=for-the-badge&logo=hp&logoColor=white"/>
+</a>
+
+</td>
+<td align="center" width="33%">
+
+**HP Certificate 03**
+
+<a href="certificates/hp-certificate-3.pdf">
+<img src="https://img.shields.io/badge/VIEW_CERTIFICATE-9D174D?style=for-the-badge&logo=hp&logoColor=white"/>
+</a>
 
 </td>
 </tr>
-</table>---
+</table>
+
+### Other Certifications
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**eIIT Delhi**
+
+<a href="certificates/eiit-delhi.pdf">
+<img src="https://img.shields.io/badge/VIEW_CERTIFICATE-9D174D?style=for-the-badge"/>
+</a>
+
+</td>
+<td align="center" width="50%">
+
+**WhiteHat Junior**
+
+<a href="certificates/whitehat-junior.pdf">
+<img src="https://img.shields.io/badge/VIEW_CERTIFICATE-9D174D?style=for-the-badge"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+*Every certificate represents a step forward in my learning journey.*
+
+</div>
 
 <div align="center">05 — MY GITHUB ACTIVITY
 
